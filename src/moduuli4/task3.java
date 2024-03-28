@@ -14,7 +14,7 @@
 //Example:
 //
 //Enter the size of the array: 8
-//Enter the integers into the array:
+//Enter the integers into the array
 //Enter integer 1: 1
 //Enter integer 2: 2
 //Enter integer 3: 3

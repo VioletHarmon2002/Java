@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class task2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("How many integer numbers in array? ");
+        System.out.print("how many integer numbers in array? ");
         int integerNumber = scanner.nextInt();
 
         int[] numbers = new int[integerNumber];

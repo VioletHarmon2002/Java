@@ -1,7 +1,7 @@
 //Task 1: A name generator
 //
 //Write a program that generates random names by combining first
-// and last names from hard-coded name arrays. The program should work as follows:
+// and last names from hard-coded name arrays. The program should work as follows
 //
 //Create two arrays, firstNames and lastNames, which contain first and last names.
 //
